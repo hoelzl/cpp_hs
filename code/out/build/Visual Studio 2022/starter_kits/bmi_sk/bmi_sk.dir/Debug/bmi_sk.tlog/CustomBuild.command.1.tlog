@@ -1,0 +1,10 @@
+^C:\USERS\TC\PROGRAMMING\CPP\CPPCOURSES\OUTPUT\CPP-HS\PUBLIC\CODE\STARTER_KITS\BMI_SK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code "-BC:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/out/build/Visual Studio 2022" --check-stamp-file "C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/out/build/Visual Studio 2022/starter_kits/bmi_sk/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

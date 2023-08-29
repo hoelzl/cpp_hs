@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "starter_kits/hello_world_sk",
+		"source" : "starter_kits/hello_world_sk"
+	}
+}

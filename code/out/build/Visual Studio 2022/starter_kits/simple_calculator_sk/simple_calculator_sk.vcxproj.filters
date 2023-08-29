@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\starter_kits\simple_calculator_sk\simple_calculator_sk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\starter_kits\simple_calculator_sk\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E89E3C51-8EE3-3B3A-ADFF-D39DBEAB308E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

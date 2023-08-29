@@ -1,0 +1,8 @@
+add_subdirectory("bmi")
+add_subdirectory("hello_world")
+add_subdirectory("modern_cpp")
+add_subdirectory("namespace_lookup")
+add_subdirectory("raii")
+add_subdirectory("range_examples")
+add_subdirectory("simple_calculator")
+add_subdirectory("simple_examples")

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\completed\simple_examples\test\simple_examples_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\completed\simple_examples\include\simple_examples.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\completed\simple_examples\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\external\GSL\GSL.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{351752DE-05BE-39ED-99F3-A1AAA2A21243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E89E3C51-8EE3-3B3A-ADFF-D39DBEAB308E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,39 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"external/Catch2/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "Catch2::@2cd104c1e9c8c9f90458"
+		},
+		{
+			"id" : "Catch2WithMain::@2cd104c1e9c8c9f90458"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@7873803823b8d9e00532",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "external/Catch2",
+		"source" : "external/Catch2"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

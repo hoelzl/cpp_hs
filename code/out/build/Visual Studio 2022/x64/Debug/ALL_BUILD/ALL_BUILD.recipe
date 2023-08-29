@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\raii\Debug\animals.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\bmi\Debug\bmi.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\starter_kits\bmi_sk\Debug\bmi_sk.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\hello_world\Debug\hello_world.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\starter_kits\hello_world_sk\Debug\hello_world_sk.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\modern_cpp\Debug\modern_cpp.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\modern_cpp\test\Debug\modern_cpp_test.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\namespace_lookup\Debug\namespace_lookup.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\raii\Debug\raii.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\range_examples\Debug\range_examples.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\simple_calculator\Debug\simple_calculator.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\starter_kits\simple_calculator_sk\Debug\simple_calculator_sk.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\simple_examples\Debug\simple_examples.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\completed\simple_examples\test\Debug\simple_examples_test.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\tc\Programming\Cpp\CppCourses\output\cpp-hs\public\code\out\build\Visual Studio 2022\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

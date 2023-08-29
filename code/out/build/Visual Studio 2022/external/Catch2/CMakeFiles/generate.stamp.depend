@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/external/Catch2/CMake/CatchConfigOptions.cmake
+C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/external/Catch2/CMakeLists.txt

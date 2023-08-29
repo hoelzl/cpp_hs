@@ -1,0 +1,2376 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						12,
+						17
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5
+					]
+				},
+				{
+					"build" : "completed",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-completed-Debug-5369a4288f2f23b3be1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "completed"
+				},
+				{
+					"build" : "completed/bmi",
+					"jsonFile" : "directory-completed.bmi-Debug-0b99d46f094ad9a09c26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/bmi",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "completed/hello_world",
+					"jsonFile" : "directory-completed.hello_world-Debug-ad68e8d42b1b5c6eed43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/hello_world",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "completed/modern_cpp",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-completed.modern_cpp-Debug-3038eba52b967ad35f28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp",
+					"targetIndexes" : 
+					[
+						11,
+						12
+					]
+				},
+				{
+					"build" : "completed/modern_cpp/test",
+					"jsonFile" : "directory-completed.modern_cpp.test-Debug-1366d2131a282d631573.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp/test",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "completed/namespace_lookup",
+					"jsonFile" : "directory-completed.namespace_lookup-Debug-5d313719bc7f737309b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/namespace_lookup",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "completed/raii",
+					"jsonFile" : "directory-completed.raii-Debug-b811a6f037031091b643.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/raii",
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"build" : "completed/range_examples",
+					"jsonFile" : "directory-completed.range_examples-Debug-792904fa979f1e6de9ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/range_examples",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "completed/simple_calculator",
+					"jsonFile" : "directory-completed.simple_calculator-Debug-bb5d7a934f33fbb53577.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_calculator",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "completed/simple_examples",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-completed.simple_examples-Debug-8fb469391d18fb1a6724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples",
+					"targetIndexes" : 
+					[
+						19,
+						20
+					]
+				},
+				{
+					"build" : "completed/simple_examples/test",
+					"jsonFile" : "directory-completed.simple_examples.test-Debug-72f16c1c501526489392.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples/test",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						13,
+						15
+					],
+					"jsonFile" : "directory-external-Debug-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "external/Catch2",
+					"childIndexes" : 
+					[
+						14
+					],
+					"jsonFile" : "directory-external.Catch2-Debug-dc19df339527279f513f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 1,
+					"source" : "external/Catch2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "external/Catch2/src",
+					"jsonFile" : "directory-external.Catch2.src-Debug-975f869168ad8da728d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 1,
+					"source" : "external/Catch2/src",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "external/GSL",
+					"childIndexes" : 
+					[
+						16
+					],
+					"jsonFile" : "directory-external.GSL-Debug-5195ad28a18b98a80815.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 2,
+					"source" : "external/GSL",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "external/GSL/include",
+					"jsonFile" : "directory-external.GSL.include-Debug-d302986d01749e5a3e6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 15,
+					"projectIndex" : 2,
+					"source" : "external/GSL/include"
+				},
+				{
+					"build" : "starter_kits",
+					"childIndexes" : 
+					[
+						18,
+						19,
+						20
+					],
+					"jsonFile" : "directory-starter_kits-Debug-bb98ad38a7b4459ec0d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "starter_kits"
+				},
+				{
+					"build" : "starter_kits/bmi_sk",
+					"jsonFile" : "directory-starter_kits.bmi_sk-Debug-ac4169723bd9143bac3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/bmi_sk",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "starter_kits/hello_world_sk",
+					"jsonFile" : "directory-starter_kits.hello_world_sk-Debug-b005fd7a363dd5bae991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/hello_world_sk",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "starter_kits/simple_calculator_sk",
+					"jsonFile" : "directory-starter_kits.simple_calculator_sk-Debug-8cd8679324f7d29fa154.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/simple_calculator_sk",
+					"targetIndexes" : 
+					[
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						17,
+						18,
+						19,
+						20
+					],
+					"name" : "cpp_code",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15,
+						16
+					],
+					"name" : "GSL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-30f51f54166b4caf7be6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@7873803823b8d9e00532",
+					"jsonFile" : "target-ALL_BUILD-Debug-8407ca840bf71420a0d3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "ALL_BUILD::@2eb459d6634d5c911be8",
+					"jsonFile" : "target-ALL_BUILD-Debug-b54d0981ac021f4917b3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2-Debug-72f107dc51034e4c0536.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2WithMain::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2WithMain-Debug-8c4c638ef7ab664d50be.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-ff6881333782eedaab92.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "animals::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-animals-Debug-1718293d7b7c725c4e52.json",
+					"name" : "animals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bmi::@0c6a2b2d813cd59608ea",
+					"jsonFile" : "target-bmi-Debug-3d343e087cd2c5fc2095.json",
+					"name" : "bmi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "bmi_sk::@3df1e31ca17b85f7c86c",
+					"jsonFile" : "target-bmi_sk-Debug-2dce2f179a4a1a73eb63.json",
+					"name" : "bmi_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@78078332e2488058e6d6",
+					"jsonFile" : "target-hello_world-Debug-d1fea1a71712f225e2d1.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "hello_world_sk::@82f1764dac0b6a1d827d",
+					"jsonFile" : "target-hello_world_sk-Debug-7e456c544028a87fe43b.json",
+					"name" : "hello_world_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp-Debug-ca89e81c70a040776c6a.json",
+					"name" : "modern_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp_lib::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp_lib-Debug-0f094050c912e22531b9.json",
+					"name" : "modern_cpp_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "modern_cpp_test::@89d93ac451e75509a4c1",
+					"jsonFile" : "target-modern_cpp_test-Debug-0b405f5b7d86d599c98b.json",
+					"name" : "modern_cpp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "namespace_lookup::@bdb4b5181b34411e4f84",
+					"jsonFile" : "target-namespace_lookup-Debug-9a4fc6b24bb7a1d125d7.json",
+					"name" : "namespace_lookup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "raii::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-raii-Debug-2cd6fb60b6b3687542b0.json",
+					"name" : "raii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "range_examples::@1f9966cf9a59109b5be5",
+					"jsonFile" : "target-range_examples-Debug-f6e7856e674793ae7ea9.json",
+					"name" : "range_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "simple_calculator::@b29d4de712d97f1f1f6c",
+					"jsonFile" : "target-simple_calculator-Debug-9479a4da6cae00c6d640.json",
+					"name" : "simple_calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "simple_calculator_sk::@fb82dd578b5f7870b205",
+					"jsonFile" : "target-simple_calculator_sk-Debug-e168b2da492c91d6a23d.json",
+					"name" : "simple_calculator_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples-Debug-504ed8506197a94592b8.json",
+					"name" : "simple_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples_lib::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples_lib-Debug-395fe0a32f1cb2179fa5.json",
+					"name" : "simple_examples_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "simple_examples_test::@61cbb1f0f3b9cde55bff",
+					"jsonFile" : "target-simple_examples_test-Debug-dadd7fc67ab2e397fc5b.json",
+					"name" : "simple_examples_test",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						12,
+						17
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5
+					]
+				},
+				{
+					"build" : "completed",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-completed-Release-5369a4288f2f23b3be1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "completed"
+				},
+				{
+					"build" : "completed/bmi",
+					"jsonFile" : "directory-completed.bmi-Release-0b99d46f094ad9a09c26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/bmi",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "completed/hello_world",
+					"jsonFile" : "directory-completed.hello_world-Release-ad68e8d42b1b5c6eed43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/hello_world",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "completed/modern_cpp",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-completed.modern_cpp-Release-3038eba52b967ad35f28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp",
+					"targetIndexes" : 
+					[
+						11,
+						12
+					]
+				},
+				{
+					"build" : "completed/modern_cpp/test",
+					"jsonFile" : "directory-completed.modern_cpp.test-Release-1366d2131a282d631573.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp/test",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "completed/namespace_lookup",
+					"jsonFile" : "directory-completed.namespace_lookup-Release-5d313719bc7f737309b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/namespace_lookup",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "completed/raii",
+					"jsonFile" : "directory-completed.raii-Release-b811a6f037031091b643.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/raii",
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"build" : "completed/range_examples",
+					"jsonFile" : "directory-completed.range_examples-Release-792904fa979f1e6de9ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/range_examples",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "completed/simple_calculator",
+					"jsonFile" : "directory-completed.simple_calculator-Release-bb5d7a934f33fbb53577.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_calculator",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "completed/simple_examples",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-completed.simple_examples-Release-8fb469391d18fb1a6724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples",
+					"targetIndexes" : 
+					[
+						19,
+						20
+					]
+				},
+				{
+					"build" : "completed/simple_examples/test",
+					"jsonFile" : "directory-completed.simple_examples.test-Release-72f16c1c501526489392.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples/test",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						13,
+						15
+					],
+					"jsonFile" : "directory-external-Release-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "external/Catch2",
+					"childIndexes" : 
+					[
+						14
+					],
+					"jsonFile" : "directory-external.Catch2-Release-dc19df339527279f513f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 1,
+					"source" : "external/Catch2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "external/Catch2/src",
+					"jsonFile" : "directory-external.Catch2.src-Release-975f869168ad8da728d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 1,
+					"source" : "external/Catch2/src",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "external/GSL",
+					"childIndexes" : 
+					[
+						16
+					],
+					"jsonFile" : "directory-external.GSL-Release-5195ad28a18b98a80815.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 2,
+					"source" : "external/GSL",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "external/GSL/include",
+					"jsonFile" : "directory-external.GSL.include-Release-d302986d01749e5a3e6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 15,
+					"projectIndex" : 2,
+					"source" : "external/GSL/include"
+				},
+				{
+					"build" : "starter_kits",
+					"childIndexes" : 
+					[
+						18,
+						19,
+						20
+					],
+					"jsonFile" : "directory-starter_kits-Release-bb98ad38a7b4459ec0d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "starter_kits"
+				},
+				{
+					"build" : "starter_kits/bmi_sk",
+					"jsonFile" : "directory-starter_kits.bmi_sk-Release-ac4169723bd9143bac3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/bmi_sk",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "starter_kits/hello_world_sk",
+					"jsonFile" : "directory-starter_kits.hello_world_sk-Release-b005fd7a363dd5bae991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/hello_world_sk",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "starter_kits/simple_calculator_sk",
+					"jsonFile" : "directory-starter_kits.simple_calculator_sk-Release-8cd8679324f7d29fa154.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/simple_calculator_sk",
+					"targetIndexes" : 
+					[
+						18
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						17,
+						18,
+						19,
+						20
+					],
+					"name" : "cpp_code",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15,
+						16
+					],
+					"name" : "GSL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-30f51f54166b4caf7be6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@7873803823b8d9e00532",
+					"jsonFile" : "target-ALL_BUILD-Release-8407ca840bf71420a0d3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "ALL_BUILD::@2eb459d6634d5c911be8",
+					"jsonFile" : "target-ALL_BUILD-Release-b54d0981ac021f4917b3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2-Release-abce35e248ff2c2ea011.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2WithMain::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2WithMain-Release-d10821f6258aba1b9660.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-ff6881333782eedaab92.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "animals::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-animals-Release-15e8cb10e38846911838.json",
+					"name" : "animals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bmi::@0c6a2b2d813cd59608ea",
+					"jsonFile" : "target-bmi-Release-d9cbb8e17be37da2246c.json",
+					"name" : "bmi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "bmi_sk::@3df1e31ca17b85f7c86c",
+					"jsonFile" : "target-bmi_sk-Release-9357b6c5257354741411.json",
+					"name" : "bmi_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@78078332e2488058e6d6",
+					"jsonFile" : "target-hello_world-Release-3b31bf81cc864b78bbef.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "hello_world_sk::@82f1764dac0b6a1d827d",
+					"jsonFile" : "target-hello_world_sk-Release-9086defca21f4606b12d.json",
+					"name" : "hello_world_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp-Release-809c3ac8c24b3c1dc6a6.json",
+					"name" : "modern_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp_lib::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp_lib-Release-67d684e8abcb499547ea.json",
+					"name" : "modern_cpp_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "modern_cpp_test::@89d93ac451e75509a4c1",
+					"jsonFile" : "target-modern_cpp_test-Release-8539b67e5f690d500eea.json",
+					"name" : "modern_cpp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "namespace_lookup::@bdb4b5181b34411e4f84",
+					"jsonFile" : "target-namespace_lookup-Release-04c732d38194dcd23263.json",
+					"name" : "namespace_lookup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "raii::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-raii-Release-6b2ac80027efe946cc66.json",
+					"name" : "raii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "range_examples::@1f9966cf9a59109b5be5",
+					"jsonFile" : "target-range_examples-Release-89b23fd72fc02ae3bd78.json",
+					"name" : "range_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "simple_calculator::@b29d4de712d97f1f1f6c",
+					"jsonFile" : "target-simple_calculator-Release-f2918c4bcf07df813f24.json",
+					"name" : "simple_calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "simple_calculator_sk::@fb82dd578b5f7870b205",
+					"jsonFile" : "target-simple_calculator_sk-Release-34d304641b10ca47fa59.json",
+					"name" : "simple_calculator_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples-Release-d52d6cbfa2a5407d1b76.json",
+					"name" : "simple_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples_lib::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples_lib-Release-b30460ab629e4e394b31.json",
+					"name" : "simple_examples_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "simple_examples_test::@61cbb1f0f3b9cde55bff",
+					"jsonFile" : "target-simple_examples_test-Release-61d1953baf666d752860.json",
+					"name" : "simple_examples_test",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						12,
+						17
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5
+					]
+				},
+				{
+					"build" : "completed",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-completed-MinSizeRel-5369a4288f2f23b3be1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "completed"
+				},
+				{
+					"build" : "completed/bmi",
+					"jsonFile" : "directory-completed.bmi-MinSizeRel-0b99d46f094ad9a09c26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/bmi",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "completed/hello_world",
+					"jsonFile" : "directory-completed.hello_world-MinSizeRel-ad68e8d42b1b5c6eed43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/hello_world",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "completed/modern_cpp",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-completed.modern_cpp-MinSizeRel-3038eba52b967ad35f28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp",
+					"targetIndexes" : 
+					[
+						11,
+						12
+					]
+				},
+				{
+					"build" : "completed/modern_cpp/test",
+					"jsonFile" : "directory-completed.modern_cpp.test-MinSizeRel-1366d2131a282d631573.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp/test",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "completed/namespace_lookup",
+					"jsonFile" : "directory-completed.namespace_lookup-MinSizeRel-5d313719bc7f737309b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/namespace_lookup",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "completed/raii",
+					"jsonFile" : "directory-completed.raii-MinSizeRel-b811a6f037031091b643.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/raii",
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"build" : "completed/range_examples",
+					"jsonFile" : "directory-completed.range_examples-MinSizeRel-792904fa979f1e6de9ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/range_examples",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "completed/simple_calculator",
+					"jsonFile" : "directory-completed.simple_calculator-MinSizeRel-bb5d7a934f33fbb53577.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_calculator",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "completed/simple_examples",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-completed.simple_examples-MinSizeRel-8fb469391d18fb1a6724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples",
+					"targetIndexes" : 
+					[
+						19,
+						20
+					]
+				},
+				{
+					"build" : "completed/simple_examples/test",
+					"jsonFile" : "directory-completed.simple_examples.test-MinSizeRel-72f16c1c501526489392.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples/test",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						13,
+						15
+					],
+					"jsonFile" : "directory-external-MinSizeRel-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "external/Catch2",
+					"childIndexes" : 
+					[
+						14
+					],
+					"jsonFile" : "directory-external.Catch2-MinSizeRel-dc19df339527279f513f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 1,
+					"source" : "external/Catch2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "external/Catch2/src",
+					"jsonFile" : "directory-external.Catch2.src-MinSizeRel-975f869168ad8da728d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 1,
+					"source" : "external/Catch2/src",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "external/GSL",
+					"childIndexes" : 
+					[
+						16
+					],
+					"jsonFile" : "directory-external.GSL-MinSizeRel-5195ad28a18b98a80815.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 2,
+					"source" : "external/GSL",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "external/GSL/include",
+					"jsonFile" : "directory-external.GSL.include-MinSizeRel-d302986d01749e5a3e6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 15,
+					"projectIndex" : 2,
+					"source" : "external/GSL/include"
+				},
+				{
+					"build" : "starter_kits",
+					"childIndexes" : 
+					[
+						18,
+						19,
+						20
+					],
+					"jsonFile" : "directory-starter_kits-MinSizeRel-bb98ad38a7b4459ec0d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "starter_kits"
+				},
+				{
+					"build" : "starter_kits/bmi_sk",
+					"jsonFile" : "directory-starter_kits.bmi_sk-MinSizeRel-ac4169723bd9143bac3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/bmi_sk",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "starter_kits/hello_world_sk",
+					"jsonFile" : "directory-starter_kits.hello_world_sk-MinSizeRel-b005fd7a363dd5bae991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/hello_world_sk",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "starter_kits/simple_calculator_sk",
+					"jsonFile" : "directory-starter_kits.simple_calculator_sk-MinSizeRel-8cd8679324f7d29fa154.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/simple_calculator_sk",
+					"targetIndexes" : 
+					[
+						18
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						17,
+						18,
+						19,
+						20
+					],
+					"name" : "cpp_code",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15,
+						16
+					],
+					"name" : "GSL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-30f51f54166b4caf7be6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@7873803823b8d9e00532",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-8407ca840bf71420a0d3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "ALL_BUILD::@2eb459d6634d5c911be8",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-b54d0981ac021f4917b3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2-MinSizeRel-95f9d084a6d7f165bcf3.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2WithMain::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2WithMain-MinSizeRel-a388916861a3979d8a06.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-ff6881333782eedaab92.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "animals::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-animals-MinSizeRel-8f9920e6415c0c361f8e.json",
+					"name" : "animals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bmi::@0c6a2b2d813cd59608ea",
+					"jsonFile" : "target-bmi-MinSizeRel-d1672710e0f64dd87b36.json",
+					"name" : "bmi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "bmi_sk::@3df1e31ca17b85f7c86c",
+					"jsonFile" : "target-bmi_sk-MinSizeRel-bbcbba39902b016fb994.json",
+					"name" : "bmi_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@78078332e2488058e6d6",
+					"jsonFile" : "target-hello_world-MinSizeRel-d5ddd7c1c78d9eaf15db.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "hello_world_sk::@82f1764dac0b6a1d827d",
+					"jsonFile" : "target-hello_world_sk-MinSizeRel-e1829425e6ff9e8e180b.json",
+					"name" : "hello_world_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp-MinSizeRel-764165c986521f8d34b2.json",
+					"name" : "modern_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp_lib::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp_lib-MinSizeRel-b9f88916040e92743cce.json",
+					"name" : "modern_cpp_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "modern_cpp_test::@89d93ac451e75509a4c1",
+					"jsonFile" : "target-modern_cpp_test-MinSizeRel-7ea95112b04adfa33414.json",
+					"name" : "modern_cpp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "namespace_lookup::@bdb4b5181b34411e4f84",
+					"jsonFile" : "target-namespace_lookup-MinSizeRel-98a768f63bb4197fd75e.json",
+					"name" : "namespace_lookup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "raii::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-raii-MinSizeRel-eec1eb55c8e910073ca8.json",
+					"name" : "raii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "range_examples::@1f9966cf9a59109b5be5",
+					"jsonFile" : "target-range_examples-MinSizeRel-4cace3291c2eeda44862.json",
+					"name" : "range_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "simple_calculator::@b29d4de712d97f1f1f6c",
+					"jsonFile" : "target-simple_calculator-MinSizeRel-5c507304cd95b40be0e2.json",
+					"name" : "simple_calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "simple_calculator_sk::@fb82dd578b5f7870b205",
+					"jsonFile" : "target-simple_calculator_sk-MinSizeRel-86a2979f57d5c57fb7f9.json",
+					"name" : "simple_calculator_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples-MinSizeRel-57e260169583f786946d.json",
+					"name" : "simple_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples_lib::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples_lib-MinSizeRel-776ae030994f0db9bd59.json",
+					"name" : "simple_examples_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "simple_examples_test::@61cbb1f0f3b9cde55bff",
+					"jsonFile" : "target-simple_examples_test-MinSizeRel-dc032d4276ea329187ef.json",
+					"name" : "simple_examples_test",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						12,
+						17
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5
+					]
+				},
+				{
+					"build" : "completed",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-completed-RelWithDebInfo-5369a4288f2f23b3be1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "completed"
+				},
+				{
+					"build" : "completed/bmi",
+					"jsonFile" : "directory-completed.bmi-RelWithDebInfo-0b99d46f094ad9a09c26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/bmi",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "completed/hello_world",
+					"jsonFile" : "directory-completed.hello_world-RelWithDebInfo-ad68e8d42b1b5c6eed43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/hello_world",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "completed/modern_cpp",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-completed.modern_cpp-RelWithDebInfo-3038eba52b967ad35f28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp",
+					"targetIndexes" : 
+					[
+						11,
+						12
+					]
+				},
+				{
+					"build" : "completed/modern_cpp/test",
+					"jsonFile" : "directory-completed.modern_cpp.test-RelWithDebInfo-1366d2131a282d631573.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "completed/modern_cpp/test",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "completed/namespace_lookup",
+					"jsonFile" : "directory-completed.namespace_lookup-RelWithDebInfo-5d313719bc7f737309b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/namespace_lookup",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "completed/raii",
+					"jsonFile" : "directory-completed.raii-RelWithDebInfo-b811a6f037031091b643.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/raii",
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"build" : "completed/range_examples",
+					"jsonFile" : "directory-completed.range_examples-RelWithDebInfo-792904fa979f1e6de9ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/range_examples",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "completed/simple_calculator",
+					"jsonFile" : "directory-completed.simple_calculator-RelWithDebInfo-bb5d7a934f33fbb53577.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_calculator",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "completed/simple_examples",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-completed.simple_examples-RelWithDebInfo-8fb469391d18fb1a6724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples",
+					"targetIndexes" : 
+					[
+						19,
+						20
+					]
+				},
+				{
+					"build" : "completed/simple_examples/test",
+					"jsonFile" : "directory-completed.simple_examples.test-RelWithDebInfo-72f16c1c501526489392.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "completed/simple_examples/test",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						13,
+						15
+					],
+					"jsonFile" : "directory-external-RelWithDebInfo-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "external/Catch2",
+					"childIndexes" : 
+					[
+						14
+					],
+					"jsonFile" : "directory-external.Catch2-RelWithDebInfo-dc19df339527279f513f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 1,
+					"source" : "external/Catch2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "external/Catch2/src",
+					"jsonFile" : "directory-external.Catch2.src-RelWithDebInfo-975f869168ad8da728d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 1,
+					"source" : "external/Catch2/src",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "external/GSL",
+					"childIndexes" : 
+					[
+						16
+					],
+					"jsonFile" : "directory-external.GSL-RelWithDebInfo-5195ad28a18b98a80815.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 2,
+					"source" : "external/GSL",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "external/GSL/include",
+					"jsonFile" : "directory-external.GSL.include-RelWithDebInfo-d302986d01749e5a3e6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 15,
+					"projectIndex" : 2,
+					"source" : "external/GSL/include"
+				},
+				{
+					"build" : "starter_kits",
+					"childIndexes" : 
+					[
+						18,
+						19,
+						20
+					],
+					"jsonFile" : "directory-starter_kits-RelWithDebInfo-bb98ad38a7b4459ec0d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "starter_kits"
+				},
+				{
+					"build" : "starter_kits/bmi_sk",
+					"jsonFile" : "directory-starter_kits.bmi_sk-RelWithDebInfo-ac4169723bd9143bac3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/bmi_sk",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "starter_kits/hello_world_sk",
+					"jsonFile" : "directory-starter_kits.hello_world_sk-RelWithDebInfo-b005fd7a363dd5bae991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/hello_world_sk",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "starter_kits/simple_calculator_sk",
+					"jsonFile" : "directory-starter_kits.simple_calculator_sk-RelWithDebInfo-8cd8679324f7d29fa154.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 0,
+					"source" : "starter_kits/simple_calculator_sk",
+					"targetIndexes" : 
+					[
+						18
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						17,
+						18,
+						19,
+						20
+					],
+					"name" : "cpp_code",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15,
+						16
+					],
+					"name" : "GSL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-30f51f54166b4caf7be6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@7873803823b8d9e00532",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-8407ca840bf71420a0d3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "ALL_BUILD::@2eb459d6634d5c911be8",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-b54d0981ac021f4917b3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2-RelWithDebInfo-b01e84dd394ede3c624a.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Catch2WithMain::@2cd104c1e9c8c9f90458",
+					"jsonFile" : "target-Catch2WithMain-RelWithDebInfo-1f73e8c2537ed08f1554.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-ff6881333782eedaab92.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "animals::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-animals-RelWithDebInfo-e896df47f6748c2ae55d.json",
+					"name" : "animals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bmi::@0c6a2b2d813cd59608ea",
+					"jsonFile" : "target-bmi-RelWithDebInfo-d3a18dca1fc5c5bdba78.json",
+					"name" : "bmi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "bmi_sk::@3df1e31ca17b85f7c86c",
+					"jsonFile" : "target-bmi_sk-RelWithDebInfo-f60791443775bee09591.json",
+					"name" : "bmi_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@78078332e2488058e6d6",
+					"jsonFile" : "target-hello_world-RelWithDebInfo-4f3be27aef9fc38c1490.json",
+					"name" : "hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "hello_world_sk::@82f1764dac0b6a1d827d",
+					"jsonFile" : "target-hello_world_sk-RelWithDebInfo-69937e2dd6814ce7321f.json",
+					"name" : "hello_world_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp-RelWithDebInfo-e78f2b7a8c2aba6f6389.json",
+					"name" : "modern_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "modern_cpp_lib::@9f70913d0ae0ac4c2f91",
+					"jsonFile" : "target-modern_cpp_lib-RelWithDebInfo-a6d95d5c35f46fc27903.json",
+					"name" : "modern_cpp_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "modern_cpp_test::@89d93ac451e75509a4c1",
+					"jsonFile" : "target-modern_cpp_test-RelWithDebInfo-29e4df51a210b57aa02f.json",
+					"name" : "modern_cpp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "namespace_lookup::@bdb4b5181b34411e4f84",
+					"jsonFile" : "target-namespace_lookup-RelWithDebInfo-57ca815e3d78c15328ff.json",
+					"name" : "namespace_lookup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "raii::@aded195fb0e1d177eb6c",
+					"jsonFile" : "target-raii-RelWithDebInfo-8035456af0c7dc968776.json",
+					"name" : "raii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "range_examples::@1f9966cf9a59109b5be5",
+					"jsonFile" : "target-range_examples-RelWithDebInfo-10020551d120aa73acde.json",
+					"name" : "range_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "simple_calculator::@b29d4de712d97f1f1f6c",
+					"jsonFile" : "target-simple_calculator-RelWithDebInfo-1cd9bf4e0deaf7e2eb2a.json",
+					"name" : "simple_calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "simple_calculator_sk::@fb82dd578b5f7870b205",
+					"jsonFile" : "target-simple_calculator_sk-RelWithDebInfo-201c75479f46e93bc307.json",
+					"name" : "simple_calculator_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples-RelWithDebInfo-1a26a9b4d711bc8ca35f.json",
+					"name" : "simple_examples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "simple_examples_lib::@474cef5483b552431f52",
+					"jsonFile" : "target-simple_examples_lib-RelWithDebInfo-74e845bf313c9fc3ffbb.json",
+					"name" : "simple_examples_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "simple_examples_test::@61cbb1f0f3b9cde55bff",
+					"jsonFile" : "target-simple_examples_test-RelWithDebInfo-94bc74aa2b61c2ac4771.json",
+					"name" : "simple_examples_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/out/build/Visual Studio 2022",
+		"source" : "C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

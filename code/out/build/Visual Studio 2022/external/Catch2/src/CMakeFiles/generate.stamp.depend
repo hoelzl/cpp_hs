@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/external/Catch2/CMake/CatchMiscFunctions.cmake
+C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/external/Catch2/src/CMakeLists.txt
+C:/Users/tc/Programming/Cpp/CppCourses/output/cpp-hs/public/code/external/Catch2/src/catch2/catch_user_config.hpp.in

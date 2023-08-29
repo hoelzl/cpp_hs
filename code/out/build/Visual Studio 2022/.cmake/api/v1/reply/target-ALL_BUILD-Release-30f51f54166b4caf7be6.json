@@ -1,0 +1,87 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "animals::@aded195fb0e1d177eb6c"
+		},
+		{
+			"id" : "raii::@aded195fb0e1d177eb6c"
+		},
+		{
+			"id" : "range_examples::@1f9966cf9a59109b5be5"
+		},
+		{
+			"id" : "simple_calculator::@b29d4de712d97f1f1f6c"
+		},
+		{
+			"id" : "simple_calculator_sk::@fb82dd578b5f7870b205"
+		},
+		{
+			"id" : "bmi_sk::@3df1e31ca17b85f7c86c"
+		},
+		{
+			"id" : "hello_world_sk::@82f1764dac0b6a1d827d"
+		},
+		{
+			"id" : "bmi::@0c6a2b2d813cd59608ea"
+		},
+		{
+			"id" : "hello_world::@78078332e2488058e6d6"
+		},
+		{
+			"id" : "simple_examples::@474cef5483b552431f52"
+		},
+		{
+			"id" : "simple_examples_lib::@474cef5483b552431f52"
+		},
+		{
+			"id" : "simple_examples_test::@61cbb1f0f3b9cde55bff"
+		},
+		{
+			"id" : "Catch2::@2cd104c1e9c8c9f90458"
+		},
+		{
+			"id" : "Catch2WithMain::@2cd104c1e9c8c9f90458"
+		},
+		{
+			"id" : "modern_cpp_lib::@9f70913d0ae0ac4c2f91"
+		},
+		{
+			"id" : "modern_cpp::@9f70913d0ae0ac4c2f91"
+		},
+		{
+			"id" : "modern_cpp_test::@89d93ac451e75509a4c1"
+		},
+		{
+			"id" : "namespace_lookup::@bdb4b5181b34411e4f84"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
