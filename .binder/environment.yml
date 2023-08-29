@@ -6,3 +6,6 @@ dependencies:
   - xtensor=0.24.4
   - xtensor-blas=0.20.0
   - libstdcxx-devel_linux-64=*=*19
+  - cmake
+  - gcc
+  - ninja
